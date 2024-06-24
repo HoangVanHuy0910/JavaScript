@@ -1,1 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/7414e22221.js"></script>
+    <title>Online video, Logo and Website</title>
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <div class="branding">Best<span>Companny</span></div>
+      <div class="hamburger-icon">
+        <span></span>
+      </div>
+      <div class="nav">
+        <ul>
+          <li><a href="#showcase">Home</a></li>
+          <li><a href="#our-tools">Details</a></li>
+          <li><a href="#featured">Featured</a></li>
+          <li><a href="#testimonial">Feedback</a></li>
+          <li><a href="#newsletter">Subscribe</a></li>
+        </ul>
+      </div>
+    </header>
+
+		<!-- Showcase Section -->
+		<section id="showcase">
+	</section>
+
+		<!-- Our Tools Section -->
+		<section id="our-tools">
+			<div class="container">
+				<div class="our-tools-wrapper">
+					<div class="our-tools-title">
+						<h3>The products that make up our brand come from riots</h3>
+					</div>
+			
+					<div class="our-tools-content">
+						<div class="tools logo">
+							<img src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltfa65b632842b49f5/65e8cc3fe646a34d932638ec/TFT_SET1124_Pass&More_Riot_Client_T2-NoText.jpg?quality=90&crop=1%3A1&width=240" alt="">
+						
+						</div>
+						<div class="tools video">
+							<img src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltda714cd548c6688b/65ca9487918f5d111dde304d/RG_REMIX-RUMBLE_GAMEPLAY-OVERVIEW-ARTICLE_BANNER-IMAGE_1920X1080.jpg?quality=90&crop=1%3A1&width=240" alt="">
+							
+						</div>
+						<div class="tools website">
+							<img src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt67869740804e919a/655c169e0a03ad3bb23985c0/112423_Client_SF_Franchise_Banner.jpg?quality=90&crop=1%3A1&width=240" alt="">
+							
+						</div>
+					</div>
+					<a href="#" class="btn">Buy</a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Feartured Section -->
+		<section id="featured">
+		<!-- Video Section -->
+		<div class="featured-video">
+			<div class="container">
+				<div class="featured-wrapper">
+					<div class="featured-image">
+						<img src="img" alt="">
+					</div>
+					<div class="featured-text">
+						<div class="featured-title">
+							<h3>Why choose our store?</h3>
+						</div>
+						<div class="featured-body">
+							<p>We are reputable in sending you genuine products and warranties across all branches</p>
+						</div>
+						<a href="#" class="btn featured-video-btn">Try</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Logo Section -->
+		<div class="featured-logo">
+			<div class="container">
+				<div class="featured-wrapper">
+					<div class="featured-image right">
+						<img src="img" alt="">
+					</div>
+					<div class="featured-text left">
+						<div class="featured-title">
+							<h3>Why Renderonline Logo?</h3>
+						</div>
+						<div class="featured-body">
+							<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, laboriosam ipsa, tempora dolore, fugit temporibus corrupti dolor ab aliquam praesentium nam nihil quod sed suscipit voluptas maiores nisi saepe debitis?</p>
+						</div>
+						<a href="#" class="btn featured-logo-btn">Try</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Website Section -->
+		<div class="featured-website">
+			<div class="container">
+				<div class="featured-wrapper">
+					<div class="featured-image">
+						<img src="img" alt="">
+					</div>
+					<div class="featured-text">
+						<div class="featured-title">
+							<h3>Why Renderonline Website?</h3>
+						</div>
+						<div class="featured-body">
+							<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, laboriosam ipsa, tempora dolore, fugit temporibus corrupti dolor ab aliquam praesentium nam nihil quod sed suscipit voluptas maiores nisi saepe debitis?</p>
+						</div>
+						<a href="#" class="btn featured-website-btn">Try</a>
+					</div>
+				</div>
+			</div>
+			</div>
+		</section>
+		
+		<!-- Testtimonial Section -->
+		<section id="testimonial">
+			<div class="container">
+				<div class="testimonial-title">
+					<h3>Provide feedback if you encounter any issues</h3>
+				</div>
+				<div class="testimonial-wrapper"></div>
+					<div class="testimonial-text"></div>
+		</section>
+	<!-- Newsletter Section -->
+		<section id="newsletter">
+			<div class="container">
+				<div class="newsletter-title">
+					<p>Join Renderonline newsletter and be among the first ones to receive our latest news and offers</p>
+					<p>You can easily unsubscribe at any time.</p>
+				</div>
+			</div>
+			<div class="newsletter-input">
+				<input type="name" id="name" placeholder="Enter Your Name">
+				<input type="email" id="email" placeholder="Your Email">
+				<input type="input" value="Subscribe" class="btn">
+			</div>
+		</section>
+
+		<!-- Footer -->
+		<footer>
+			<div class="container">
+				<div class="footer-wrapper">
+					<div class="years">
+						<p>Renderonline &copy; 2024</p>
+					</div>
+					<div class="icons">
+						<i class="fab fa-facebook-f" onclick="window.location.href='https://www.facebook.com/profile.php?id=100005993924838'"></i>
+						<a href="https://www.google.com/maps/place/1865+Hu%E1%BB%B3nh+T%E1%BA%A5n+Ph%C3%A1t,+TT.+Nh%C3%A0+B%C3%A8,+Nh%C3%A0+B%C3%A8,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.699817,106.7359691,17z/data=!3m1!4b1!4m6!3m5!1s0x31753b0420e0ad0d:0x6edf6f4b3238a081!8m2!3d10.699817!4d106.738544!16s%2Fg%2F11h6dr5k4_?hl=vi-VN&entry=ttu">Location</a>
+
+					</div>
+				</div>
+			</div>
+		</footer>
+
+    <script src="main.js"></script>
+
+
+
+
+
+
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <title>CRUD with firestore</title>
+	  <link rel="stylesheet" href="main.css">
+	</head>
+	<body>
+	  <div class="container">
+		<div class="table-wrapper">
+		  <table class="table-users">
+			<tr>
+			  <th>Firts Name</th>
+			  <th>Last Name</th>
+			  <th>Phone</th>
+			  <th>Email</th>
+			  <th>Action</th>
+			</tr>
+		  </table>
+		  <button class="btn btn-add">Add information of user</button>
+		</div>
+		<!-- Add Modal -->
+		<div class="add-modal modal-wrapper">
+		  <div class="modal">
+			<div class="modal-header"><h3>Add New User</h3></div>
+			<div class="modal-body">
+			  <form class="form" autocomplete="off">
+				<input type="text" name="firstName" placeholder="First Name">
+				<input type="text" name="lastName" placeholder="Last Name">
+				<input type="number" name="phone" placeholder="Phone">
+				<input type="email" name="email" placeholder="Email">
+				<button class="btn btn-modal">Submit</button>
+			  </form>
+			</div>
+		  </div>
+		</div>
+	
+		<!-- Edit Modal -->
+		<div class="edit-modal modal-wrapper">
+		  <div class="modal">
+			<div class="modal-header"><h3>Edit User</h3></div>
+			<div class="modal-body">
+			  <form class="form" autocomplete="off">
+				<input type="text" name="firstName" placeholder="First Name">
+				<input type="text" name="lastName" placeholder="Last Name">
+				<input type="number" name="phone" placeholder="Phone">
+				<input type="email" name="email" placeholder="Email">
+				<button class="btn btn-modal">Submit</button>
+			  </form>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	
+	  <!-- The core Firebase JS SDK is always required and must be listed first -->
+	  <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-app.js"></script>
+	
+	  <!-- TODO: Add SDKs for Firebase products that you want to use
+		  https://firebase.google.com/docs/web/setup#available-libraries -->
+	  <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-firestore.js"></script>
+	
+	  <script>
+		// Your web app's Firebase configuration
+		var firebaseConfig = {
+		  apiKey: "####",
+		  authDomain: "####",
+		  databaseURL: "####",
+		  projectId: "####",
+		  storageBucket: "####",
+		  messagingSenderId: "####",
+		  appId: "####"
+		};
+		// Initialize Firebase
+		firebase.initializeApp(firebaseConfig);
+		const db = firebase.firestore();
+	  </script>
+	  <script src="abc.js"></script>
+	</body>
+	</html>
+  </body>
+</html>
 
